@@ -20,3 +20,4 @@ C:\Users\mdcha\OneDrive\New-C#\New-C#\bin\Debug\net10.0\runtimes\win-x64\native\
 C:\Users\mdcha\OneDrive\New-C#\New-C#\bin\Debug\net10.0\runtimes\win-x86\native\raylib.dll
 C:\Users\mdcha\OneDrive\New-C#\New-C#\obj\Debug\net10.0\New-C#.csproj.AssemblyReference.cache
 C:\Users\mdcha\OneDrive\New-C#\New-C#\obj\Debug\net10.0\New-C#.csproj.Up2Date
+C:\Users\mdcha\OneDrive\New-C#\New-C#\obj\Debug\net10.0\New-C#.sourcelink.json
